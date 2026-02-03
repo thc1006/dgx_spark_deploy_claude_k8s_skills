@@ -4,10 +4,10 @@
 
 > You should rename this file's name from README.md into "CLAUDE.md"
 
-> **最後更新**: 2026-02-03
-> **硬體平台**: NVIDIA DGX Spark (GB10 Superchip)
-> **目標**: 完整功能 Kubernetes + Gateway API + DRA 支援
-> **作者** ：蔡秀吉（thc1006）
+> - **最後更新**: 2026-02-03
+> - **硬體平台**: NVIDIA DGX Spark (GB10 Superchip)
+> - **目標**: 完整功能 Kubernetes + Gateway API + DRA 支援
+> - **作者** ：蔡秀吉（thc1006）
 ---
 
 ## 系統環境
